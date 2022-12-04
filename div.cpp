@@ -7,7 +7,7 @@ int main()
 	cout << "----------------------------------\n";
 	int a;
 	int b;
-	int resdiv;
+	int resdiv;  //this is also used to commit on git hub 
 	a=30;
 	b=10;
 	resdiv=a/b;
